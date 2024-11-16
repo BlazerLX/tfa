@@ -11,9 +11,9 @@ PlayerClass
 	"localize_name"	"TF_Class_Name_Soldier"
 	"speed_max"		"240"
 //	"health_max"		"100"
-//	"armor_max"		"250"
-	"health_max"		"200"
-	"armor_max"		"0"
+//	"armor_max"		"150"
+	"health_max"		"100"
+	"armor_max"		"100"
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"

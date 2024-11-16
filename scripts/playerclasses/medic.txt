@@ -12,8 +12,8 @@ PlayerClass
 	"speed_max"		"320"
 //	"health_max"		"90"
 //	"armor_max"		"100"
-	"health_max"		"150"
-	"armor_max"		"0"
+	"health_max"		"90"
+	"armor_max"		"100"
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"

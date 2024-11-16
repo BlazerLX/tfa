@@ -11,10 +11,10 @@ PlayerClass
 	"localize_name"	"TF_Class_Name_Scout"
 //	"speed_max"		"450"
 	"speed_max"		"400"
-//	"health_max"		"75"
-//	"armor_max"		"25"
-	"health_max"		"125"
-	"armor_max"		"0"
+//	"health_max"		"80"
+//	"armor_max"		"50"
+	"health_max"		"80"
+	"armor_max"		"50"
 
 	// Grenades.
 	"grenade1"		"TF_WEAPON_GRENADE_CALTROP"

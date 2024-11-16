@@ -9,9 +9,9 @@ PlayerClass
 	"model_hwm"		"models/player/hwm/civilian.mdl"
 	"model_hands"		"models/weapons/v_models/v_civilian_arms.mdl"
 	"localize_name"		"TF_Class_Name_Civilian"
-	"speed_max"		"250"
-	"health_max"		"200"
-	"armor_max"		"0"
+	"speed_max"		"280"
+	"health_max"		"100"
+	"armor_max"		"50"
 
 	// Grenades.
 
