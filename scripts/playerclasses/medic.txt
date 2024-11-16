@@ -20,8 +20,8 @@ PlayerClass
 	"grenade2"		"TF_WEAPON_GRENADE_HEAL"
 
 	// Weapons.
-	"weapon1"		"TF_WEAPON_SYRINGEGUN_MEDIC"
-	"weapon2"		"TF_WEAPON_MEDIGUN"
+	"weapon1"		"TF_WEAPON_MEDIGUN"
+	"weapon2"		"TF_WEAPON_SMG"
 	"weapon3"		"TF_WEAPON_BONESAW"
 
 	//Thirdperson
@@ -32,7 +32,7 @@ PlayerClass
 	AmmoMax
 	{
 		"tf_ammo_primary"	"150"
-		"tf_ammo_secondary"	"150"
+		"tf_ammo_secondary"	"105"
 		"tf_ammo_metal"		"100"
 		"tf_ammo_grenades1"	"0"
 		"tf_ammo_grenades2"	"0"

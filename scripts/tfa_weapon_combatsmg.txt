@@ -4,7 +4,7 @@ WeaponData
 	"printname"		"#TF_Weapon_SMG"
 	"BuiltRightHanded"	"0"
 	"weight"		"2"
-	"WeaponType"		"secondary"
+	"WeaponType"		"Primary"
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 		
 	// Attributes TF.

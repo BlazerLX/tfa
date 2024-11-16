@@ -8,7 +8,7 @@ WeaponData
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
 	
 	// Attributes TF.
-	//"Damage"		"50"
+	//"Damage"		"40"
 	"Damage"		"40"
 	"Range"			"8192"
 	"BulletsPerShot"	"1"
@@ -26,7 +26,7 @@ WeaponData
 	"secondary_ammo"	"None"
 	"clip_size"		"5"
 	"default_clip"		"5"
-	"MaxAmmo"			"25"
+	"MaxAmmo"			"15"
 
 	// Buckets.
 	"bucket"		"0"

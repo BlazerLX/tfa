@@ -19,7 +19,7 @@ PlayerClass
 	"grenade1"		"TF_WEAPON_GRENADE_NORMAL"
 
 	// Weapons.
-	"weapon1"		"TF_WEAPON_SNIPERRIFLE"
+	"weapon1"		"TF_WEAPON_HUNTERRIFLE"
 	"weapon2"		"TF_WEAPON_SMG"
 	"weapon3"		"TF_WEAPON_CLUB"
 
@@ -31,7 +31,7 @@ PlayerClass
 
 	AmmoMax
 	{
-		"tf_ammo_primary"	"25"
+		"tf_ammo_primary"	"15"
 		"tf_ammo_secondary"	"75"
 		"tf_ammo_metal"		"100"
 		"tf_ammo_grenades1"	"1"
