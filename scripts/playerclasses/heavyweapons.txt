@@ -12,7 +12,7 @@ PlayerClass
 	"speed_max"		"240"
 //	"health_max"		"100"
 //	"armor_max"		"250"
-	"health_max"		"100"
+	"health_max"		"300"
 	"armor_max"		"250"
 
 	// Grenades.
